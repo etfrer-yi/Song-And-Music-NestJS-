@@ -8,7 +8,7 @@ To be able to use this repository,
 3. Create a SQL server database with name `SongAndMusic` and, within this database, create a table called `SongAndMusic`. Design this table by looking at the Issue "SongAndMusic table design"
 4. Run `npm run start` to run the application and allow HTTP requests to be made.
 
-============================================================================================
+===================================================================
 
 Final product looks like this (the result of a GET request for all records):
 ![image](https://user-images.githubusercontent.com/77317763/131039035-3f394a17-a99e-4e19-b8d0-34e53022f9b0.png)
